@@ -1,5 +1,7 @@
 Code Book for key_meas_tidy.txt
 
+This text file contains the output from run_analysis.R
+It is tab delimited.
 
 ####
 ####
